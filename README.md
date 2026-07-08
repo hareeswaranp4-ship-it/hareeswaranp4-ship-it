@@ -116,15 +116,8 @@ I'm **Hareeswaran P**, a **Network Engineer** passionate about networking, cloud
 |---------|-------------|
 | Enterprise Network Design | Cisco-based LAN/WAN implementation |
 | AWS Cloud Deployment | EC2, VPC, IAM, S3 infrastructure |
+| CNC PLOTTER MACHINE | USING ARDUINO
 
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
@@ -137,7 +130,7 @@ I'm **Hareeswaran P**, a **Network Engineer** passionate about networking, cloud
 🌍 Kerala, India
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+www.linkedin.com/in/hareeswaran-p-493b2b257
 
 ---
 
