@@ -116,8 +116,7 @@ I'm **Hareeswaran P**, a **Network Engineer** passionate about networking, cloud
 |---------|-------------|
 | Enterprise Network Design | Cisco-based LAN/WAN implementation |
 | AWS Cloud Deployment | EC2, VPC, IAM, S3 infrastructure |
-| Network Monitoring | Wireshark-based packet analysis |
-| System Administration | RHEL & Windows Server Management |
+
 
 ---
 
