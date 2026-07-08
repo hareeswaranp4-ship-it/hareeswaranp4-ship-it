@@ -134,8 +134,6 @@ www.linkedin.com/in/hareeswaran-p-493b2b257
 
 ---
 
-## ⭐ Motto
 
-> "Building Secure, Scalable, and Reliable Network Infrastructure."
 
 
