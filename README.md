@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi there
+## Hi 
 
 I'm **Hareeswaran P**, a **Network Engineer** passionate about networking, cloud computing, system administration, and IT infrastructure. I enjoy building secure and reliable network environments while continuously learning new technologies in networking and cloud platforms.
 
@@ -114,8 +113,6 @@ I'm **Hareeswaran P**, a **Network Engineer** passionate about networking, cloud
 
 | Project | Description |
 |---------|-------------|
-| Enterprise Network Design | Cisco-based LAN/WAN implementation |
-| AWS Cloud Deployment | EC2, VPC, IAM, S3 infrastructure |
 | CNC PLOTTER MACHINE | USING ARDUINO
 
 
